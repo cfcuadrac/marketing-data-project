@@ -1,8 +1,10 @@
 # marketing-data-project
 
-This data project is based on a data-set that contains real data from a company called **Olist** which is a virtual market place in Brazil. 
+This project is based on a real world dataset from Olist, a leading virtual marketplace in Brazil that connects small and medium sized businesses to customers nationwide.
 
-In this data set we can see the whole process, it includes the top of the funnel as well as the bottom of the funnel. Since the lead is first being contacted until the lead is won.
+The dataset captures the entire sales funnel, from the moment a lead first engages with Olist’s marketing efforts (top of the funnel) to the point when that lead becomes a closed deal (bottom of the funnel). This provides a complete view of the customer acquisition journey from first contact to deal won, allowing for in depth analysis of conversion rates, sales performance, and lead characteristics.
+
+In this project, I will analyze the data to uncover patterns, identify bottlenecks, and generate actionable insights that could help optimize both marketing and sales strategies.
 
 The 4 business questions I want to answer with this data set are the following:
   1. Which marketing origins produce the highest conversion rate to closed deals?
