@@ -28,7 +28,7 @@ Monday - Dataset understanding and questions
 Tuesday - Data Cleaning & Wrangling
   - Handle missing values:
       - declared_monthly_revenue, average_stock, has_gtin
-  - Create new calculated fields such as conversion_rate, days_to_close
+  - Create new columns such as conversion_rate, days_to_close
   - Change all the formats of the columns to the needed formats
   - Create a new csv with clean data
 
