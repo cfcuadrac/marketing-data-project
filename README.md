@@ -9,10 +9,13 @@ Because the data includes both marketing and sales information, it can be used t
 In this project, I will use Python to clean and explore the data, and Tableau to create an interactive dashboard that shows the main findings in a clear and visual way. The goal is to find patterns, spot issues, and suggest improvements that could help Olist’s marketing and sales teams work more effectively.
 
 The 4 business questions:
-  1. Which marketing origins produce the highest conversion rate to closed deals?
-  2. How long does it take for a lead to move from first contact to deal won on average (by origin)?
-  3. Which SDRs or SRs close the most deals, and do they specialize in certain business segments?
-  4. Do certain lead behaviour profiles (cat, wolf, eagle, etc.) lead to higher deal values or quicker closes?
+ - 1. Which marketing origins produce the highest conversion rate to closed deals?**
+
+ - 2. How long does it take for a lead to move from first contact to deal won on average (by origin)?**
+
+ - 3. Is there a correlation between a sales rep's amount of closes and the diversity of business segments they handle?**
+
+ - 4. Do certain lead behaviour profiles (cat, wolf, eagle, etc.) lead to quicker closes?**
 
 The plan for the week:
 
