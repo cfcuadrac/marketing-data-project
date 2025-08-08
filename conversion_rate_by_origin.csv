@@ -1,0 +1,10 @@
+,origin,closed_deals_by_origin,qualified_leads_by_origin,conversion_rate_by_origin
+0,organic_search,271,2296,0.118
+1,unknown,197,1099,0.179
+2,paid_search,195,1586,0.123
+3,social,75,1350,0.056
+4,direct_traffic,56,499,0.112
+5,referral,24,284,0.085
+6,email,15,493,0.03
+7,display,6,118,0.051
+8,other_publicities,3,65,0.046
